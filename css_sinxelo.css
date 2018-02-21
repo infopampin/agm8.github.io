@@ -1,0 +1,21 @@
+body {
+	font-family: "Times New Roman", serif;
+	background-color: #d8da3d; }
+h1 {	
+	border-top: 1px #00FFFF;
+ 	border-right: 1px #00FFFF;
+  	border-bottom: 1px #00FFFF;
+  	border-left: 1px #00FFFF;
+	text-align: center;
+	font-family: sans-serif; }
+h2 {
+	text-align: right;}
+p {
+	line-height: 1.2; font-size: 1em;
+	margin-left: 80px;
+	font-size: 14pt;
+	color: green;}
+a:link {
+	color: blue; }
+a:visited {
+	color: purple; }
