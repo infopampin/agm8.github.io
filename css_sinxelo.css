@@ -15,6 +15,10 @@ p {
 	margin-left: 80px;
 	font-size: 14pt;
 	color: green;}
+
+table,td {
+	border: 5px liquid blue;}
+
 a:link {
 	color: blue; }
 a:visited {
