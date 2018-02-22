@@ -19,10 +19,8 @@ p {
 table,td {
 	border-spacing: 20px;
     	border-collapse: separate;
-	border: 5px solid blue;}
-td { 
-    padding: 5px;
-}
+	border: 5px solid blue;
+	padding: 5px;}
 
 a:link {
 	color: blue; }
