@@ -1,0 +1,14 @@
+body {
+	background-color: #FFF8C6; }
+
+h1 {
+	 border: solid #493;
+	 border-top-width: 6px;
+ 	border-left-width: 8px;
+	color:black;
+	text-align: center;}
+
+p {
+	font-size: 14pt;
+	font-family: sans-serif;
+	color: green;}
